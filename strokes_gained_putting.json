@@ -1,0 +1,49 @@
+[{
+	"distance": "2",
+	"putts": "1.01"
+}, {
+	"distance": "3",
+	"putts": "1.05"
+}, {
+	"distance": "4",
+	"putts": "1.14"
+}, {
+	"distance": "5",
+	"putts": "1.24"
+}, {
+	"distance": "6",
+	"putts": "1.34"
+}, {
+	"distance": "7",
+	"putts": "1.43"
+}, {
+	"distance": "8",
+	"putts": "1.5"
+}, {
+	"distance": "9",
+	"putts": "1.56"
+}, {
+	"distance": "10",
+	"putts": "1.61"
+}, {
+	"distance": "15",
+	"putts": "1.78"
+}, {
+	"distance": "20",
+	"putts": "1.87"
+}, {
+	"distance": "30",
+	"putts": "1.98"
+}, {
+	"distance": "40",
+	"putts": "2.06"
+}, {
+	"distance": "50",
+	"putts": "2.14"
+}, {
+	"distance": "60",
+	"putts": "2.21"
+}, {
+	"distance": "90",
+	"putts": "2.36"
+}]
