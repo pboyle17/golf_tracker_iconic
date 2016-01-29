@@ -1,0 +1,39 @@
+{
+  "Hole 1":{
+    "1": {
+      "lie":"tee",
+      "latitude":41.596522,
+      "longitude":-87.760522
+    },
+    "2": {
+      "lie":"fairway",
+      "latitude":41.598008,
+      "longitude":-87.760522
+    },
+    "3": {
+      "lie":"fairway",
+      "latitude":41.599532,
+      "longitude":-87.761803
+    },
+    "4": {
+      "lie":"rough",
+      "latitude":41.600230,
+      "longitude":-87.762490
+    },
+    "5": {
+      "lie":"green",
+      "latitude":null,
+      "longitude":null,
+      "length":12,
+    },
+    "6": {
+      "lie":"green",
+      "latitude":null,
+      "longitude":null,
+      "length":3
+    },
+
+
+
+  }
+}

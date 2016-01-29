@@ -1,0 +1,101 @@
+{
+  "name":"George Dunne National",
+
+  "hole 1": {
+    "tee":{
+      "latitude":41.596518,
+      "longitude":-87.760517
+    },
+    "hole":{
+      "latitude":41.600262,
+      "longitude":-87.762235
+    }
+  },
+
+  "hole 2": {
+    "tee":{
+      "latitude":41.600934,
+      "longitude":-87.762227
+    },
+    "hole":{
+      "latitude":41.600507,
+      "longitude":-87.766040
+    }
+  },
+
+  "hole 3": {
+    "tee":{
+      "latitude":41.600507,
+      "longitude":-87.766040
+    },
+    "hole":{
+      "latitude":41.600359,
+      "longitude":-87.768398
+    }
+  },
+
+  "hole 4": {
+    "tee":{
+      "latitude":41.600580,
+      "longitude":-87.760517
+    },
+    "hole":{
+      "latitude":41.598069,
+      "longitude":-87.771455
+    }
+  },
+
+  "hole 5": {
+    "tee":{
+      "latitude":41.598007,
+      "longitude":-87.772227
+    },
+    "hole":{
+      "latitude":41.601109,
+      "longitude":-87.772584
+    }
+  },
+
+  "hole 6": {
+    "tee":{
+      "latitude":41.601334,
+      "longitude":-87.771584
+    },
+    "hole":{
+      "latitude":41.601450,
+      "longitude":-87.765996
+    }
+  },
+
+  "hole 7": {
+    "tee":{
+      "latitude":41.602140,
+      "longitude":-87.760517
+    },
+    "hole":{
+      "latitude":41.602032,
+      "longitude":-87.763636
+    }
+  },
+
+  "hole 8": {
+    "tee":{
+      "latitude":41.602056,
+      "longitude":-87.762291
+    },
+    "hole":{
+      "latitude":41.600735,
+      "longitude":-87.759592
+    }
+  },
+  "hole 9": {
+    "tee":{
+      "latitude":41.599907,
+      "longitude":-87.759345
+    },
+    "hole":{
+      "latitude":41.596799,
+      "longitude":-87.759334
+    }
+  }
+  }

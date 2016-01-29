@@ -1,49 +1,58 @@
-[{
-	"distance": "2",
-	"putts": "1.01"
-}, {
-	"distance": "3",
-	"putts": "1.05"
-}, {
-	"distance": "4",
-	"putts": "1.14"
-}, {
-	"distance": "5",
-	"putts": "1.24"
-}, {
-	"distance": "6",
-	"putts": "1.34"
-}, {
-	"distance": "7",
-	"putts": "1.43"
-}, {
-	"distance": "8",
-	"putts": "1.5"
-}, {
-	"distance": "9",
-	"putts": "1.56"
-}, {
-	"distance": "10",
-	"putts": "1.61"
-}, {
-	"distance": "15",
-	"putts": "1.78"
-}, {
-	"distance": "20",
-	"putts": "1.87"
-}, {
-	"distance": "30",
-	"putts": "1.98"
-}, {
-	"distance": "40",
-	"putts": "2.06"
-}, {
-	"distance": "50",
-	"putts": "2.14"
-}, {
-	"distance": "60",
-	"putts": "2.21"
-}, {
-	"distance": "90",
-	"putts": "2.36"
-}]
+{"2 feet":{
+		"distance": "2",
+		"putts": "1.01"
+		},
+
+	"3 feet":{
+		"distance": "3",
+		"putts": "1.05"
+		},
+
+	"4 feet":{
+		"distance": "4",
+		"putts": "1.14"	
+		},
+
+	"5 feet":{
+		"distance": "5",
+		"putts": "1.24"
+	},
+	"6 feet":
+	{
+		"distance": "6",
+		"putts": "1.34"
+	}, "7 feet":{
+		"distance": "7",
+		"putts": "1.43"
+	}, "8 feet":{
+		"distance": "8",
+		"putts": "1.5"
+	}, "9 feet":{
+		"distance": "9",
+		"putts": "1.56"
+	}, "10 feet":{
+		"distance": "10",
+		"putts": "1.61"
+	},"15 feet": {
+		"distance": "15",
+		"putts": "1.78"
+	}, "20 feet":{
+		"distance": "20",
+		"putts": "1.87"
+	}, "30 feet":{
+		"distance": "30",
+		"putts": "1.98"
+	}, "40 feet":{
+		"distance": "40",
+		"putts": "2.06"
+	},"50 feet": {
+		"distance": "50",
+		"putts": "2.14"
+	},"60 feet": {
+		"distance": "60",
+		"putts": "2.21"
+	},"90 feet": {
+		"distance": "90",
+		"putts": "2.36"
+	}
+}
